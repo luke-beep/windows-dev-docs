@@ -18,8 +18,7 @@ Microsoft offers a variety of resources for web developers, including new tools 
 
 ## WebView, DevTools, PWAs
 
-:::row:::
-    :::column:::
+
         [![WebView 2 icon](../images/webview2.png)](https://developer.microsoft.com/microsoft-edge/webview2/)<br>
         **[WebView 2](https://developer.microsoft.com/microsoft-edge/webview2/)**<br>
         Embed web content (HTML, CSS, and JavaScript) in your native applications with Microsoft Edge WebView2.
@@ -40,7 +39,6 @@ Microsoft offers a variety of resources for web developers, including new tools 
         Progressive Web Apps (PWAs) provide your users with a native, app-like experience customized for their devices. They are websites that are progressively enhanced to function like native apps on supporting platforms.<br>
         [Get started with PWAs](/microsoft-edge/progressive-web-apps-chromium/get-started)
     :::column-end:::
-:::row-end:::
 
 ## Microsoft Edge browser
 
