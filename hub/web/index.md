@@ -18,7 +18,8 @@ Microsoft offers a variety of resources for web developers, including new tools 
 
 ## WebView, DevTools, PWAs
 
-
+:::row:::
+    :::column:::
         [![WebView 2 icon](../images/webview2.png)](https://developer.microsoft.com/microsoft-edge/webview2/)<br>
         **[WebView 2](https://developer.microsoft.com/microsoft-edge/webview2/)**<br>
         Embed web content (HTML, CSS, and JavaScript) in your native applications with Microsoft Edge WebView2.
