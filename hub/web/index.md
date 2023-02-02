@@ -40,6 +40,7 @@ Microsoft offers a variety of resources for web developers, including new tools 
         Progressive Web Apps (PWAs) provide your users with a native, app-like experience customized for their devices. They are websites that are progressively enhanced to function like native apps on supporting platforms.<br>
         [Get started with PWAs](/microsoft-edge/progressive-web-apps-chromium/get-started)
     :::column-end:::
+:::row-end:::
 
 ## Microsoft Edge browser
 
